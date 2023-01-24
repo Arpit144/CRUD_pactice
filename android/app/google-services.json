@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033751340343",
+    "project_id": "crud-practice-34f05",
+    "storage_bucket": "crud-practice-34f05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033751340343:android:b83b5442553c1add7aa6b2",
+        "android_client_info": {
+          "package_name": "com.example.crud_pactice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033751340343-upipqng8s6cqnr7rm73jst2mv263pkfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzOLlq2VyzlK_YnmznJXievzh8A2Gh38I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033751340343-upipqng8s6cqnr7rm73jst2mv263pkfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
